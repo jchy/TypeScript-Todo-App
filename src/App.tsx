@@ -8,8 +8,8 @@ import AllRoutes from "./routes/AllRoutes";
 function App() {
   return (
     <div className="App">
-      <Counter />
-      {/* <Todo /> */}
+      {/* <Counter /> */}
+      <Todo />
       {/* <AllRoutes /> */}
     </div>
   );
