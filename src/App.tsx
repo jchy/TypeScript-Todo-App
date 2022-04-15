@@ -8,9 +8,9 @@ import AllRoutes from "./routes/AllRoutes";
 function App() {
   return (
     <div className="App">
-      {/* <Counter /> */}
+      <Counter />
       {/* <Todo /> */}
-      <AllRoutes />
+      {/* <AllRoutes /> */}
     </div>
   );
 }
